@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+/bin
+/include
+log/
+public/
+/pip-selfcheck.json
+.DS_Store
+/.Python
+/lib
+*.pyc
+*.orig
+__pycache__

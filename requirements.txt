@@ -1,0 +1,13 @@
+Flask==0.10.1
+pytz==2015.2
+iso8601==0.1.10
+PyYAML==3.11
+tzlocal==1.2.2
+requests==2.9.1
+pika==0.10.0
+uWSGI==2.0.12
+cachetools==1.1.5
+pycrypto==2.6.1
+git+https://github.com/rajeev1982/pyboot@v1
+pafy==0.5.3.1
+wget=3.2

@@ -1,0 +1,8 @@
+/home/ubuntu/local-tube/log/*.log {
+    rotate 12
+	daily
+	missingok
+	compress
+	notifempty
+	copytruncate
+}
